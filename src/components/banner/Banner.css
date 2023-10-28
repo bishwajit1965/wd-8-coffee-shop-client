@@ -1,0 +1,6 @@
+.banner-bg {
+  background-image: url(".././../assets//images/more/3.png");
+  background-position: center;
+  background-size: cover;
+  min-height: 550px;
+}

@@ -1,0 +1,6 @@
+.coffee-component-bg {
+  background-image: url("../../assets/images/more/1.png");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}

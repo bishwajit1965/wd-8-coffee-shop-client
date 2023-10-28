@@ -1,0 +1,6 @@
+.not-found-bg {
+  background-image: url("../../assets/images/404/404.gif");
+  min-height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+}

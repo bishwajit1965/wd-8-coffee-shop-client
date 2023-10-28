@@ -1,0 +1,7 @@
+.coffee-bg {
+  background-image: url("../../assets/images/more/11.png");
+  min-height: 500px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
